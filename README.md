@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Nodejs, React e React Native**
 
-- 👨‍💻 All of my projects are available at [alexlimacti.github.io](alexlimacti.github.io)
+- 👨‍💻 All of my projects are available at [alexlimacti.github.io](https://alexlimacti.github.io)
 
 - 💬 Ask me about **Java, Spring, Angular, Microservices**
 
