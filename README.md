@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexsandro</h1>
 <h3 align="center">Java Fullstack Developer | A crazy in the dev world</h3>
 
-- 🔭 I’m currently working at [Zoop Tecnologias em Pagamentos](zoop.com.br)
+- 🔭 I’m currently working at [Zoop Tecnologias em Pagamentos](http://zoop.com.br)
 
 - 🌱 I’m currently learning **Javascript, Nodejs, React e React Native**
 
