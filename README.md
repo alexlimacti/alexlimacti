@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alexsandrolima.dev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexsandrols/](https://www.linkedin.com/in/alexsandrols/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/alexsandrols/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
