@@ -2,7 +2,7 @@
 <h1 align='center'>
     <img alt="Dev" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="800" height="360"/>
 </h1>
-<h3 align="center">Java Fullstack Developer | A crazy in the dev world</h3>
+<h3 align="center">Senior Software Engineer | A crazy in the dev world</h3>
 
 - 🔭 I’m currently working at [Zoop Tecnologias em Pagamentos](http://zoop.com.br)
 
