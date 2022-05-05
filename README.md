@@ -4,8 +4,6 @@
 </h1>
 <h3 align="center">Senior Software Engineer | A crazy in the dev world</h3>
 
-- 🔭 I’m currently working at [Zoop Tecnologias em Pagamentos](http://zoop.com.br)
-
 - 🌱 I’m currently learning **Javascript, Nodejs, React e React Native**
 
 - 👨‍💻 All of my projects are available at [alexlimacti.github.io](https://alexlimacti.github.io)
